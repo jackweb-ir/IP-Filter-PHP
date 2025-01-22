@@ -20,6 +20,9 @@ IPFilterPHP is a PHP script that improves web application security by filtering 
 ## Usage
 Once included, the script will automatically check the requesting IP against the blocklist and whitelist. If the IP is blocked or not from Iran, the script will terminate the request and display the error message.
 
+## Requirements
+- Recommended PHP version: **7.4 or higher**.
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
