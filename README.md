@@ -1,5 +1,5 @@
 # IP-Filter-PHP
-IPFilterPHP is a PHP script that improves web application security by filtering incoming requests based on IP addresses. It blocks requests from a predefined blocklist or non-Iranian IPs while allowing trusted users through a whitelist. This easily integrable solution offers robust protection against unwanted access.
+IP-Filter-PHP is a PHP script that improves web application security by filtering incoming requests based on IP addresses. It blocks requests from a predefined blocklist or non-Iranian IPs while allowing trusted users through a whitelist. This easily integrable solution offers robust protection against unwanted access.
 
 ## Features
 - **IP Blocking**: Automatically blocks IPs listed in the blocklist.
